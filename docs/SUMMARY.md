@@ -6,7 +6,7 @@
 
 * [Test 1](group-test-a/test-1/README.md)
   * [Untitled](group-test-a/test-1/untitled.md)
-* [Test 3](group-test-a/test-3.md)
+* [Test 3.2](group-test-a/test-3.md)
 
 ## Group B
 
